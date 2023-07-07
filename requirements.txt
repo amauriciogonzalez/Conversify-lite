@@ -1,0 +1,6 @@
+characterai==0.6.0
+pydub==0.25.1
+pyttsx3==2.90
+selenium==4.10.0
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
